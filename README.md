@@ -19,3 +19,6 @@ GitHub 社はアメリカのサンフランシスコを拠点とする会社．o
 - [8 章：GitHub と連携するツールとサービス](/Readme/Charpter8/README.md)
 - [9 章：GitHub を利用した開発フロー](/Readme/Charpter9/README.md)
 - [10 章：会社で GitHub を使おう](/Readme/Charpter10/README.md)
+
+## 重要な情報まとめ
+
